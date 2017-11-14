@@ -1,0 +1,10 @@
+C:\Users\Erick\source\repos\Aula12\Aula12\bin\Debug\Aula12.exe.config
+C:\Users\Erick\source\repos\Aula12\Aula12\bin\Debug\Aula12.exe
+C:\Users\Erick\source\repos\Aula12\Aula12\bin\Debug\Aula12.pdb
+C:\Users\Erick\source\repos\Aula12\Aula12\obj\Debug\Aula12.csprojResolveAssemblyReference.cache
+C:\Users\Erick\source\repos\Aula12\Aula12\obj\Debug\Aula12.Form1.resources
+C:\Users\Erick\source\repos\Aula12\Aula12\obj\Debug\Aula12.Properties.Resources.resources
+C:\Users\Erick\source\repos\Aula12\Aula12\obj\Debug\Aula12.csproj.GenerateResource.Cache
+C:\Users\Erick\source\repos\Aula12\Aula12\obj\Debug\Aula12.csproj.CoreCompileInputs.cache
+C:\Users\Erick\source\repos\Aula12\Aula12\obj\Debug\Aula12.exe
+C:\Users\Erick\source\repos\Aula12\Aula12\obj\Debug\Aula12.pdb
